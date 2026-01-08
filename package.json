@@ -1,0 +1,23 @@
+{
+  "name": "plants-store-tests",
+  "version": "1.0.0",
+  "description": "Final project: creating autotests for Playwright using the 'Plants and Accessories' test website",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milkadpua/plants.store.tests.git"
+  },
+  "keywords": [],
+  "author": "Mila",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.6.1",
+    "eslint": "^9.39.2",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^17.0.0",
+    "jiti": "^2.6.1",
+    "typescript-eslint": "^8.52.0"
+  }
+}
